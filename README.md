@@ -6,7 +6,7 @@ VR Mods Hub is an app for Meta Quest that installs and updates VR mods right on 
 
 *The Hub's library screen (interface preview with sample data).*
 
-## Status: 0.1.1, early release
+## Status: 0.1.2, early release
 
 - **Only Red Dead Redemption VR (RDR1) has been tested end to end**, on Quest 3 and Quest 3S.
 - The other games in the library are listed but not tested with this release. Treat them as experimental.
@@ -24,7 +24,7 @@ The Hub checks the author's signature and the hashes of your game files before i
 
 ## Installing the Hub
 
-1. Download `VR-Mods-Hub-0.1.1.apk` from the [Releases](https://github.com/dubrovskiy-yevhen-stakelogic/vr-mods-hub/releases) page.
+1. Download `VR-Mods-Hub-0.1.2.apk` from the [Releases](https://github.com/dubrovskiy-yevhen-stakelogic/vr-mods-hub/releases) page.
 2. Install it on your Quest as an app from unknown sources.
 3. Open **VR Mods Hub** from the Unknown sources section of your library.
 
